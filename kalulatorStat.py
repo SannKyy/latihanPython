@@ -37,3 +37,8 @@ else:
 print("median nya adalah:", median)
 
 
+#modus
+
+
+
+
