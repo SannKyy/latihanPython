@@ -1,1 +1,3 @@
 # latihanPython
+
+# masih pemula  

@@ -38,7 +38,18 @@ print("median nya adalah:", median)
 
 
 #modus
+'''
+max_count = 0
+modus = None
+
+for i in range(n):
+    count = 0
+    
+    for j in range(n):
+        if jadiAngka[j] == jadiAngka[i]:
+            count += 1
 
 
-
+'''
+#PR
 
